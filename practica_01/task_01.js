@@ -1,3 +1,3 @@
-// tipos de datos -- primitive data
+// usar un archivo js en un html
 
-;
+console.log("hola");
